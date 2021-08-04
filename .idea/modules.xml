@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/travellizer-common/travellizer-common.iml" filepath="$PROJECT_DIR$/travellizer-common/travellizer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-config-server/travellizer-config-server.iml" filepath="$PROJECT_DIR$/travellizer-config-server/travellizer-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-eureka-server/travellizer-eureka-server.iml" filepath="$PROJECT_DIR$/travellizer-eureka-server/travellizer-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-geography-service/travellizer-geography-service.iml" filepath="$PROJECT_DIR$/travellizer-geography-service/travellizer-geography-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-ticket-service/travellizer-ticket-service.iml" filepath="$PROJECT_DIR$/travellizer-ticket-service/travellizer-ticket-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-trip-service/travellizer-trip-service.iml" filepath="$PROJECT_DIR$/travellizer-trip-service/travellizer-trip-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travellizer-user-service/travellizer-user-service.iml" filepath="$PROJECT_DIR$/travellizer-user-service/travellizer-user-service.iml" />
+    </modules>
+  </component>
+</project>
